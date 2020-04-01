@@ -1,0 +1,62 @@
+p,header,footer,h1,h2
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.right
+{
+ margin-left: 10%;
+}
+
+#about,#about+p
+{
+
+    margin: 0em;
+    background-color: #041f30;
+    color: #f9f8f5;
+}
+ul,#list
+{
+    background-color: #ff8484;
+    list-style: square;
+    margin: 0em;
+}
+li
+{
+    margin-bottom: 20px;
+}
+h1,h2
+{
+    text-align: center;
+    color: #041f30;
+}
+p
+{
+    color: #485c68;
+}
+header
+{
+    text-align: center;
+    
+    background-color: #99bed7;
+}
+
+#list
+{
+   
+    font-family: 'Libre Baskerville', serif;
+}
+
+#school,#school+p
+{
+    margin: 0em;
+    background: linear-gradient(#ff8484,#99bed7);
+}
+
+footer,footer p
+{
+    margin-top: 25em;
+    background-color: #f9f8f5;
+    color: #ff8484;
+}
